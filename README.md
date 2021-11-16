@@ -1,5 +1,5 @@
 # Code-Monk
-Code Monk solution using Python
+Codemonk solutions using Python
 
 This repository consist of solutions of Code Monk modules using Python.
 
